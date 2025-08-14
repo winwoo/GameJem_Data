@@ -1,0 +1,5 @@
+descriptor/
+proto/
+version.json
+db/
+csharp/

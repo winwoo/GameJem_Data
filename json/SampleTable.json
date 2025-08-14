@@ -1,0 +1,23 @@
+[
+  {
+    "id":"1",
+    "name":"name1",
+    "number":"100",
+    "floatNum":"0.1",
+    "sampleType":"1"
+  },
+  {
+    "id":"2",
+    "name":"name2",
+    "number":"200",
+    "floatNum":"0.2",
+    "sampleType":"2"
+  },
+  {
+    "id":"3",
+    "name":"name3",
+    "number":"300",
+    "floatNum":"0.3",
+    "sampleType":"3"
+  }
+]
